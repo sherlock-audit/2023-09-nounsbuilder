@@ -1,0 +1,3 @@
+[submodule "nouns-protocol/lib/forge-std"]
+	path = nouns-protocol/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

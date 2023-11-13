@@ -1,0 +1,15 @@
+{
+  "BuilderDAO": "0x7498e6e471f31e869f038D8DBffbDFdf650c3F95",
+  "WETH": "0x4200000000000000000000000000000000000006",
+  "CrossDomainMessenger": "0x4200000000000000000000000000000000000007",
+  "ProtocolRewards": "0x7777777F279eba3d3Ad8F4E708545291A6fDBA8B",
+  "Manager": "0x43aa19d53764c7c3154ee14d887f9e955745b104",
+  "ManagerImpl": "0xb3345f12e49ad4ca3827652609b7e3fdc133f578",
+  "Auction": "0x09f7ac2f154a878b2d914b7cf5db8cc085d4870b",
+  "Token": "0x3ee0a240860d767abce5a0e6cd92f1b81ee39428",
+  "MetadataRenderer": "0xc960cbb6108677cae50692c1b0b2a1c2c945f66e",
+  "Treasury": "0xb4cae287ca424171a7493e60af2983cb3b2a5a4a",
+  "Governor": "0xafb5069b56e66b579fda30551936bfd6c5d3221a",
+  "MerkleReserveMinter": "0xcb7442f81ebed5d525d2e97f8410751a08a7cd1d",
+  "MigrationDeployer": "0xf698fc9a4158d50ac7a16a546deee90f2166d7f7"
+}
