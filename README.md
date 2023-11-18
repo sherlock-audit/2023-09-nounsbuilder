@@ -58,7 +58,7 @@ https://code4rena.com/reports/2022-09-nouns-builder
 ___
 
 ### Q: Are there any off-chain mechanisms or off-chain procedures for the protocol (keeper bots, input validation expectations, etc)?
-L2MigrationDeployer transactions can reach above the max purchased gas for L1CrossDomainMessenger relayMessage calls. These transactions will be resubmitted by out relayer.
+L2MigrationDeployer transactions can reach above the max purchased gas for L1CrossDomainMessenger relayMessage calls. These transactions will be resubmitted by our relayer.
 ___
 
 ### Q: In case of external protocol integrations, are the risks of external contracts pausing or executing an emergency withdrawal acceptable? If not, Watsons will submit issues related to these situations that can harm your protocol's functionality.
