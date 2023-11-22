@@ -51,6 +51,8 @@ ___
 
 ### Q: Please list any known issues/acceptable risks that should not result in a valid finding.
 When calling L2MigrationDeployer.deploy the L2MigrationDeployer address must be set as the first founder in the founders array or the call will revert
+
+When using L2MigrationDeployer with L2CrossDomainMessenger failed relay messages might be played out of order leading to DAO settings being improperly migrated
 ___
 
 ### Q: Please provide links to previous audits (if any).
